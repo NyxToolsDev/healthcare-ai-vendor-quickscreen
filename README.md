@@ -51,4 +51,4 @@ Built by a healthcare IT professional with 19 years of experience.
 
 MIT — free to use, share, and adapt with attribution.
 
-Copyright 2026 NyxTools · LEW Enterprises LLC
+Copyright 2026 NyxTools

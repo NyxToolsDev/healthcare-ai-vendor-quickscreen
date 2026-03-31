@@ -1,6 +1,6 @@
 # Healthcare AI Vendor Quick Screen
 
-**A free resource from NyxTools by LEW Enterprises LLC**
+**A free resource from NyxTools by NyxTools**
 
 Use this quick screen to evaluate an AI vendor in 15 minutes. It covers the non-negotiable requirements for any AI tool that will touch healthcare data. If a vendor fails the quick screen, there's no need for a full evaluation.
 
@@ -142,4 +142,4 @@ Learn more: [NyxTools on Gumroad](https://nyxtools.gumroad.com)
 
 ---
 
-*Copyright 2026 NyxTools, LEW Enterprises LLC. This quick screen is free to use and distribute with attribution.*
+*Copyright 2026 NyxTools. This quick screen is free to use and distribute with attribution.*
